@@ -1,0 +1,3 @@
+pyqr
+qrcode
+argparse
