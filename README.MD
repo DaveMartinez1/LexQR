@@ -14,11 +14,11 @@ $ pip install -r requeriments.txt
 
 ### Uso
 
-Ejemplo de uso:
+Ejemplo de uso:<br>
 ![ejemplo de uso](example.png)
 
 
-Resultado:
+Resultado:<br>
 ![resultado](github.png)
 
 -- From the dark side --
